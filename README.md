@@ -1,8 +1,7 @@
 # flutter_basic_calculator
 
-Flutter Calculator
+**Flutter Calculator**
 
-![Pyramid][pyramid]
+![Calcutor][calculator]
 
-
-[pyramid]: img/calculator.png
+[calculator]: img/calculator.png
